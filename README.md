@@ -1,10 +1,30 @@
+
+<div align="center">
+    <img width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHR6cnA4bm90ZXNqZzI4Y3JpYm95ZzRneGZ3bmZ6bmZ6bmZ6bmZ6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" style="border-radius: 50%; border: 3px solid #FF69B4;"/>    
+    <br/>
+    <br/>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=35&duration=2000&pause=3000&color=FF69B4&center=true&vCenter=true&width=600&height=50&lines=Greetings!+I'm+Alexandra+Peralta" alt="Typing SVG" /></a>
+</div>
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/alexandra-peralta-gil/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:alexandra.peralta.g@uni.pe"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</div>
+
+<br/>
+
+<div align="center">
+    <a href="./README-ES.md"><img src="https://img.shields.io/badge/README-ESPAÑOL-FFD700?labelColor=1C2325&style=for-the-badge"></a>
+    <a href="./README.md"><img src="https://img.shields.io/badge/README-ENGLISH-0077B5?labelColor=1C2325&style=for-the-badge"></a>
+</div>
+
+<br/>
+
 <p align="center">
   <img src="https://img.shields.io/badge/AI_Engineer-FF69B4?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Fullstack_Developer-0077B5?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Innovation_&_Hustle-FFD700?style=for-the-badge&logo=rocket&logoColor=black" />
 </p>
-
-# Hi there, I'm Alexandra Peralta 👋 
 
 ### 🚀 About Me
 I am a **Systems Engineering graduate from UNI**, specializing in **Software Development**. I am passionate about creating applications that provide a seamless, intuitive, and visually stunning user experience. I believe that great engineering should be felt in every navigation.
@@ -19,13 +39,13 @@ I am currently deep-diving into the modern web ecosystem (**Next.js, TypeScript,
 
 ## 🛠️ Specialized Tech Stack
 
-### 💅 Frontend & UX Architecture
+#### 🎀 Frontend & UX Architecture
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma" />
 
-### ⚙️ Backend & Data Engineering
+#### ⚙️ Backend & Data Engineering
 <img src="https://skillicons.dev/icons?i=nodejs,spring,java,python,postgres,supabase,mongodb" />
 
-### ☁️ Cloud, Triggers & Analytics
+#### ☁️ Cloud, Triggers & Analytics
 <img src="https://skillicons.dev/icons?i=azure,gcp,git,vscode,postman" />
 
 <br/>
