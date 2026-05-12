@@ -18,57 +18,39 @@
 </div>
 
 ## 🌸 About Me
-I am a **Systems Engineering graduate from UNI**, dedicated to crafting software where **advanced logic meets the art of human intuition**. I am passionate about creating applications that provide a seamless and visually stunning user experience—I believe that **great engineering should be felt in every navigation.**
+**Systems Engineering Graduate | Universidad Nacional de Ingeniería (UNI) 🇵🇪**
 
-### 💡 Product, Data & Innovation Strategy
-My engineering mindset is deeply rooted in the startup ecosystem and data-driven decision-making. 
+I craft software where **advanced logic meets human intuition**. I am passionate about building applications that provide a seamless user experience where great engineering is felt in every interaction. 
 
-* **🚀 Startup & MVP Excellence:** Active participant in several **hackathons and incubation programs**, honing the ability to build high-impact MVPs through rapid innovation and scalable product design.
-* **📊 Strategic Insights:** During my experience at **Yape**, I bridged the gap between technical architecture and business viability, leveraging **SQL, Power BI, and Excel** to drive growth.
+### 💡 Innovation & Strategy
+* **🚀 Startup & MVPs:** Veteran of **7+ Hackathons** and incubation programs, specializing in transforming complex ideas into high-impact, scalable products.
+* **📊 Business Intelligence:** Former **Financial Planning Intern at Yape**, bridging the gap between technical architecture and business profitability (SQL, Power BI, Excel).
 
 ### 🤖 Current Focus & Evolution
-I am currently evolving my technical craft, moving from data strategy to specialized software development with a **"Product Engineering"** mindset:
-
-* **💻 Modern Stack (Learning Path):** Deep-diving into the modern web ecosystem to build high-performance applications. I am building a solid foundation in **Next.js, TypeScript, React, and Node.js**, while continuously exploring everything that contributes to building better, more scalable products—from robust architecture to cloud-ready solutions.
-* **🧠 Future Horizon:** My ultimate goal is to specialize in **LLMs and RAG architectures**, integrating intelligent layers into user-centric software.
+* **💻 Product Engineering:** Deep-diving into **Next.js, TypeScript, and Node.js**—mastering the full lifecycle from robust architecture to cloud deployment.
+* **🧠 Future Horizon:** Specializing in **LLMs and RAG architectures** to integrate intelligent layers into user-centric software.
 <br/>
 
 ## 🛠️ Specialized Tech Stack
 
-<div align="center">
+<div align="left">
+  <img src="https://img.shields.io/badge/🎀_FRONTEND-ARCHITECTURE-FF69B4?style=for-the-badge&logoColor=white" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma&perline=8" />
+  <br/><br/>
 
-<table style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td align="center" width="420" style="border: none;">
-      <br/>
-      <img src="https://img.shields.io/badge/🎀_FRONTEND-ARCHITECTURE-FF69B4?style=for-the-badge&logoColor=white" />
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma&perline=4" width="310" />
-      <br/><br/>
-    </td>
-    <td align="center" width="420" style="border: none;">
-      <br/>
-      <img src="https://img.shields.io/badge/⚙️_BACKEND-ENGINEERING-0052CC?style=for-the-badge&logoColor=white" />
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,spring,java,python,postgres,supabase,mongodb,mysql&perline=4" width="310" />
-      <br/><br/>
-    </td>
-  </tr>
-</table>
+  <img src="https://img.shields.io/badge/⚙️_BACKEND_%26_AI-ENGINEERING-0052CC?style=for-the-badge&logoColor=white" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,java,python,postgres,supabase,mongodb,mysql&perline=8" />
+  <br/>
+  <img src="https://img.shields.io/badge/Gemini_API-Intelligent_Layers-8E75B2?style=flat-square&logo=google-gemini&logoColor=white" />
+  <br/><br/>
 
-<table style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td align="center" width="840" style="border: none;">
-      <img src="https://img.shields.io/badge/☁️_CLOUD_&_ORCHESTRATION-B8860B?style=for-the-badge&logoColor=white" />
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=azure,gcp,git,vscode,postman,github&perline=6" width="600" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Databricks-SQL_%26_Triggers-FF3621?style=flat-square&logo=databricks&logoColor=white" />
-      <br/><br/>
-    </td>
-  </tr>
-</table>
-
+  <img src="https://img.shields.io/badge/☁️_CLOUD_&_ORCHESTRATION-B8860B?style=for-the-badge&logoColor=white" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=azure,gcp,git,vscode,postman,github,bash,powershell&perline=8" />
+  <br/>
+  <img src="https://img.shields.io/badge/Databricks-SQL_%26_Triggers-FF3621?style=flat-square&logo=databricks&logoColor=white" />
 </div>
 
 <br/>
