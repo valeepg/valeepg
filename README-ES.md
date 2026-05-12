@@ -23,7 +23,7 @@
 Diseño software donde la **lógica avanzada se encuentra con la intuición humana**. Me apasiona construir aplicaciones que ofrezcan una experiencia de usuario fluida, donde la excelencia técnica se perciba en cada interacción. 
 
 ### 💡 Innovación y Estrategia
-* **🚀 Startups y MVPs:** Participante activa en **más de 7 Hackatones** y programas de incubación.Cuento con proyectos ganadores y posiciones en el Top 5, enfocándome en transformar ideas complejas en productos escalables de alto impacto.
+* **🚀 Startups y MVPs:** Participante activa en **más de 7 Hackatones** y programas de incubación. Cuento con proyectos ganadores y posiciones en el Top 5, enfocándome en transformar ideas complejas en productos escalables de alto impacto.
 * **📊 Inteligencia de Negocios:** Ex **Practicante de Planeamiento Financiero en Yape**, conectando la arquitectura técnica con la rentabilidad del negocio (SQL, Power BI, Excel).
 
 ### 🤖 Foco Actual y Evolución
