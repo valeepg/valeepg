@@ -17,7 +17,7 @@
   </p>
 </div>
 
-## 🌸 Sobre Mí
+## 🌸 Sobre mí
 **Ingeniera de Sistemas | Universidad Nacional de Ingeniería (UNI) 🇵🇪**
 
 Diseño software donde la **lógica avanzada se encuentra con la intuición humana**. Me apasiona construir aplicaciones que ofrezcan una experiencia de usuario fluida, donde la excelencia técnica se perciba en cada interacción. 
