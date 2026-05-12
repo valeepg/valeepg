@@ -75,7 +75,7 @@ I craft software where **advanced logic meets human intuition**. I am passionate
 <br/>
 
 <div align="center">
-  <i>"Engineering seamless worlds where advanced logic meets the art of human intuition."</i>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" alt="Sparkles" width="35" />
   <br/>
-  <b>— Alexandra Peralta Gil</b>
+  <i>"Engineering seamless worlds where advanced logic meets the art of human intuition."</i>
 </div>
