@@ -18,17 +18,17 @@
 </div>
 
 ## 🌸 About Me
-**Systems Engineering Graduate | National University of Engineering (UNI) 🇵🇪**
+**Systems Engineer | National University of Engineering (UNI) 🇵🇪**
 
 I craft software where **advanced logic meets human intuition**. I am passionate about building applications that provide a seamless user experience where great engineering is felt in every interaction. 
 
 ### 💡 Innovation & Strategy
-* **🚀 Startup & MVPs:** Veteran of **7+ Hackathons** and incubation programs, specializing in transforming complex ideas into high-impact, scalable products.
+* **🚀 Startup & MVPs:** Recurrent participant in **7+ Hackathons** and incubation programs, including Top 5 placements and winning projects, specializing in transforming complex ideas into high-impact, scalable products.
 * **📊 Business Intelligence:** Former **Financial Planning Intern at Yape**, bridging the gap between technical architecture and business profitability (SQL, Power BI, Excel).
 
 ### 🤖 Current Focus & Evolution
-* **💻 Product Engineering:** Deep-diving into **Next.js, TypeScript, and Node.js**—mastering the full lifecycle from robust architecture to cloud deployment.
-* **🧠 Future Horizon:** Specializing in **LLMs and RAG architectures** to integrate intelligent layers into user-centric software.
+* **💻 Product Engineering:** Deep-diving into **Next.js, TypeScript, Node.js, and more...** mastering the full lifecycle from robust architecture to cloud deployment.
+* **🧠 Future Horizon:** After consolidating my **Full Stack** profile, my goal is to specialize in **LLMs and RAG architectures**, integrating intelligent layers into user-centric software.
 <br/>
 
 ## 🛠️ Specialized Tech Stack
@@ -57,11 +57,12 @@ I craft software where **advanced logic meets human intuition**. I am passionate
 
 
 ## 🔍 Strategic Roadmap & Impact
-* 🤖 *AI Innovation:* Integrated *Gemini API* to build intelligent layers in document automation products.
-* 🏗️ *Product Engineering:* Currently architecting a real-time *Events Platform* using *Next.js, Supabase, and Payload CMS*.
-* ⚡ *Data Orchestration:* Specialist in *Databricks triggers* and *Azure ETLs*, automating complex workflows to ensure real-time data reliability.
-* 🏆 *Hackathons & Incubation:* Active participant in the startup ecosystem, leveraging Lean methodology to build scalable tech solutions.
-* 📈 *Data-Driven Insights:* Experienced in identifying growth levers and product optimization through deep analytical deep-dives.
+
+* 🤖 *Conversational AI:* Integrated *Gemini API* to develop an intelligent chatbot, optimizing user interaction through the design of conversational flows.
+* 🏗️ *Product Engineering:* Currently architecting a real-time *Events Platform*, prioritizing scalability with *Next.js, Supabase, and Payload CMS*.
+* ⚡ *Data Automation:* Implementation of *Azure ETLs* and *Databricks triggers*, leveraging *Excel and Power BI* to automate data workflows and ensure data reliability.
+* 🏆 *Hackathons & Innovation:* Strategic focus on *MVP* definition and business models. Expert in *Storytelling* for high-impact pitches and understanding the user through experience design.
+* 📈 *Product Vision:* Ability to identify growth levers and optimize products through metrics analysis and a deep understanding of market needs.
 
 <br/>
 
