@@ -31,7 +31,7 @@ Diseño software donde la **lógica avanzada se encuentra con la intuición huma
 * **🧠 Horizontes Futuros:** Tras consolidar mi perfil **Full Stack**, mi meta es profundizar en el estudio de **LLMs y arquitecturas RAG**, integrando capas de inteligencia artificial en software diseñado para el usuario final.
 <br/>
 
-## 🛠️ Stack Tecnológico Especializado
+## 🛠️ Stack Tecnológico
 
 <div align="left">
   <img src="https://img.shields.io/badge/🎀_ARQUITECTURA-FRONTEND-FF69B4?style=for-the-badge&logoColor=white" />
