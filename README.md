@@ -18,7 +18,7 @@
 </div>
 
 ## 🌸 About Me
-**Systems Engineering Graduate | Universidad Nacional de Ingeniería (UNI) 🇵🇪**
+**Systems Engineering Graduate | National University of Engineering (UNI) 🇵🇪**
 
 I craft software where **advanced logic meets human intuition**. I am passionate about building applications that provide a seamless user experience where great engineering is felt in every interaction. 
 
@@ -65,29 +65,17 @@ I craft software where **advanced logic meets human intuition**. I am passionate
 
 <br/>
 
-## 📊 Analytics & Streak
+## 📊 Activity & Proficiency
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=valeepg&theme=synthwave&hide_border=true&border_radius=8&card_width=600&excludeDaysLabel=EB5454&background=EBDBDB00&stroke=EB53D1&ring=EB53D1&currStreakLabel=EB5454&currStreakNum=EB5454" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=valeepg&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=EB53D1&icon_color=FFD700&text_color=FFFFFF" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeepg&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=EB53D1&text_color=FFFFFF" alt="Top Languages" height="180" />
 </p>
 
 <br/>
-<br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%" height="1px" />
-  
-  <p align="center">
-    <br/>
-    <i>
-      <font size="4" face="Courier New" color="#F7AFFBDA">
-        "Engineering seamless worlds where advanced logic meets the art of human intuition."
-      </font>
-    </i>
-    <br/>
-  </p>
-
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%" height="1px" />
+  <i>"Engineering seamless worlds where advanced logic meets the art of human intuition."</i>
+  <br/>
+  <b>— Alexandra Peralta Gil</b>
 </div>
