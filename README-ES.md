@@ -23,12 +23,12 @@
 Diseño software donde la **lógica avanzada se encuentra con la intuición humana**. Me apasiona construir aplicaciones que ofrezcan una experiencia de usuario fluida, donde la excelencia técnica se perciba en cada interacción. 
 
 ### 💡 Innovación y Estrategia
-* **🚀 Startups y MVPs:** Participante activa en **más de 7 Hackatones** y programas de incubación, con un enfoque en transformar ideas complejas en productos escalables de alto impacto.
+* **🚀 Startups y MVPs:** Participante activa en **más de 7 Hackatones** y programas de incubación.Cuento con proyectos ganadores y posiciones en el Top 5, enfocándome en transformar ideas complejas en productos escalables de alto impacto.
 * **📊 Inteligencia de Negocios:** Ex **Practicante de Planeamiento Financiero en Yape**, conectando la arquitectura técnica con la rentabilidad del negocio (SQL, Power BI, Excel).
 
 ### 🤖 Foco Actual y Evolución
 * **💻 Ingeniería de Producto:** Especializándome en **Next.js, TypeScript, Node.js y más...** dominando el ciclo de vida completo: desde una arquitectura robusta hasta el despliegue en la nube.
-* **🧠 Horizontes Futuros:** Tras consolidar mi perfil **Full Stack**, mi meta es profundizar en el estudio de **LLMs y arquitecturas RAG**, integrando capas de inteligencia artificial en software diseñado para el usuario final.
+* **🧠 Horizontes Futuros:** Tras consolidar mi perfil **Full Stack**, mi meta es profundizar en el estudio de **LLMs y arquitecturas RAG** para integrar capas de IA en software de alta complejidad centrado en el usuario.
 <br/>
 
 ## 🛠️ Stack Tecnológico
