@@ -67,15 +67,30 @@ I craft software where **advanced logic meets human intuition**. I am passionate
 
 ## 📊 Activity & Proficiency
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=valeepg&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=EB53D1&icon_color=FFD700&text_color=FFFFFF" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeepg&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=EB53D1&text_color=FFFFFF" alt="Top Languages" height="180" />
-</p>
-
+<div align="center">
+  <table width="100%" cellspacing="0" cellpadding="0" style="width: 100%; border-collapse: collapse; table-layout: fixed; border: 2px solid #FF69B4;">
+    <tr style="border: none;">
+      <td width="50%" align="center" style="border-right: 2px solid #FF69B4; padding: 10px; background-color: transparent;">
+        <a href="https://awesome-github-stats.azurewebsites.net/index.html?cardType=octocat&theme=dracula&preferLogin=false&Background=00000000&Text=DDDDDD&Title=FF69B4&Border=00000000&Ring=00FFFF&fontFamily=Segoe+UI">
+          <img alt="valeepg's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/valeepg?cardType=octocat&theme=dracula&preferLogin=false&Background=00000000&Text=DDDDDD&Title=FF69B4&Border=00000000&Ring=00FFFF&fontFamily=Segoe+UI" width="100%" />
+        </a>
+      </td>
+      <td width="50%" align="center" style="padding: 10px; background-color: transparent;">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=valeepg&layout=compact&theme=synthwave&hide_border=true&bg_color=00000000&count_private=true&title_color=FF69B4&text_color=FFFFFF&langs_count=10&font_family=Segoe+UI&custom_title=Top%20Languages&bar_color=FF69B4" width="95%" />
+      </td>
+    </tr>
+    <tr style="border-top: 2px solid #FF69B4;">
+      <td colspan="2" align="center" style="padding: 12px; background-color: rgba(255, 105, 180, 0.05);">
+        <img src="https://img.shields.io/badge/PROFILE_VIEWS-FF1493?style=for-the-badge&logo=github&logoColor=white&labelColor=FF69B4" />
+        <img src="https://komarev.com/ghpvc/?username=valeepg&color=FF1493&style=for-the-badge&label=COUNT" />
+      </td>
+    </tr>
+  </table>
+</div>
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" alt="Sparkles" width="35" />
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="35" height="35" />
   <br/>
   <i>"Engineering seamless worlds where advanced logic meets the art of human intuition."</i>
 </div>
