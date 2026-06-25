@@ -76,14 +76,14 @@ I craft software where **advanced logic meets human intuition**. I am passionate
           <img alt="valeepg's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/valeepg?cardType=octocat&theme=dracula&preferLogin=false&Background=00000000&Text=DDDDDD&Title=FF69B4&Border=00000000&Ring=00FFFF&fontFamily=Segoe+UI" width="100%" />
         </a>
       </td>
-      <td width="50%" align="center" style="padding: 10px; background-color: transparent;">
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=valeepg&layout=compact&theme=synthwave&hide_border=true&bg_color=00000000&count_private=true&title_color=FF69B4&text_color=FFFFFF&langs_count=10&font_family=Segoe+UI&custom_title=Top%20Languages&bar_color=FF69B4" width="95%" />
+    <td width="50%" align="center" style="padding: 10px; background-color: transparent;">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=valeepg&layout=compact&theme=synthwave&hide_border=true&bg_color=00000000&count_private=true&title_color=FF69B4&text_color=FFFFFF&langs_count=10&font_family=Segoe+UI&custom_title=Top%20Languages&bar_color=FF69B4&hide=html,css&v=3" width="95%" />
       </td>
     </tr>
+    <!-- Fila del Contador de Visitas -->
     <tr style="border-top: 2px solid #FF69B4;">
       <td colspan="2" align="center" style="padding: 12px; background-color: rgba(255, 105, 180, 0.05);">
-        <img src="https://img.shields.io/badge/PROFILE_VIEWS-FF1493?style=for-the-badge&logo=github&logoColor=white&labelColor=FF69B4" />
-        <img src="https://komarev.com/ghpvc/?username=valeepg&color=FF1493&style=for-the-badge&label=COUNT" />
+        <img src="https://komarev.com/ghpvc/?username=valeepg&color=FF1493&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
       </td>
     </tr>
   </table>
