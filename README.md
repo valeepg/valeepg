@@ -48,7 +48,8 @@ I craft software where **advanced logic meets human intuition**. I am passionate
 
   <img src="https://img.shields.io/badge/☁️_CLOUD_&_ORCHESTRATION-B8860B?style=for-the-badge&logoColor=white" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=azure,gcp,git,vscode,postman,github,bash,powershell&perline=8" />
+  <!-- Render removido y eliminada la restricción de salto de línea para que sigan de largo -->
+  <img src="https://skillicons.dev/icons?i=azure,gcp,git,github,vercel,netlify,cloudflare,vscode,postman,bash,powershell" />
   <br/>
   <img src="https://img.shields.io/badge/Databricks-SQL_%26_Triggers-FF3621?style=flat-square&logo=databricks&logoColor=white" />
 </div>
